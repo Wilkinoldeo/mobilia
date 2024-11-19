@@ -1,0 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://mobilia-7ht.pages.dev/sitemap.xml
